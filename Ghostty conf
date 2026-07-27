@@ -1,0 +1,16 @@
+# Theme
+theme=Aura
+
+# Cursor
+adjust-cursor-thickness = 4
+cursor-style = block
+cursor-style-blink = true
+cursor-opacity = 0.5
+
+# Fuente
+font-family = Hack Nerd Font
+font-size = 14
+
+# Trasnparencia
+background-opacity = 0.90
+background-blur = true
