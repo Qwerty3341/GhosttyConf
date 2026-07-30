@@ -2,4 +2,12 @@ Comando para incluir configs de nano por defecto
 
 echo 'include "/usr/share/nano/*.nanorc"' >> ~/.nanorc
 
+
+
 Configs adicionales
+
+set autoindent
+set brackets "characters"
+set linenumbers
+set mouse
+set indicator
