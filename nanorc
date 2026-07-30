@@ -1,0 +1,5 @@
+Comando para incluir configs de nano por defecto
+
+echo 'include "/usr/share/nano/*.nanorc"' >> ~/.nanorc
+
+Configs adicionales
