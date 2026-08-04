@@ -1,0 +1,9 @@
+Load a config:
+/home/qwerty/.config/foot/foot.ini
+
+Config template:
+/etc/xdg/foot/foot.ini
+
+# Some configurations
+font=Hack Nerd Font Mono:size=16
+initial-color-theme=dark
